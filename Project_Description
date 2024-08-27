@@ -1,0 +1,10 @@
+For this exercise you will use functions from the pygame.draw module to
+create a figure in a style that was known (by Microsoft) as "Style 1305".
+Samples of this style are depicted to the right, but your design must be
+unique.
+In order to complete this task, you will need to:
+• plan out a figure that includes at least one "prop" item
+• read about pygame's "polygon" function in the documentation online
+Your submission for this exercise:
+• must create a window of dimensions at least 300 × 300
+• must use the "circle" and "polygon" functions to create a distinct head and body
