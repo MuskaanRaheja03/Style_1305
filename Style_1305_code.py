@@ -1,6 +1,3 @@
-#Name- Muskaan Raheja
-#Student id- 101284985
-
 from math import pi
 import pygame
 
